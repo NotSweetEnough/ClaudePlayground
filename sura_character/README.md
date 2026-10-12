@@ -33,10 +33,10 @@ reproducible with one command.
 |---|---:|---|---|
 | `Sura_Body` | 74,844 | Skin, Horn, Hair | Visible skin (hidden areas culled, subdivided once), claws and spikes, brows and lashes; 34 blendshapes |
 | `Sura_Outfit` | 110,984 | Outfit | Tunic + collar band + rolled cuffs, side-slit skirt, sash with knot and tails, trousers, calf wraps, straps, shoes |
-| `Sura_Hair` | 26,204 | Hair | ≈330 alpha cards in three layers, combed scalp cap, two loose strands |
+| `Sura_Hair` | 27,788 | Hair | ≈330 alpha strand cards in three layers, 90 short hairline cards, combed scalp cap, two loose strands |
 | `Sura_Eyes` | 2,040 | Eye, Cornea | MakeHuman high-poly eyes, amber-crimson irises |
 | `Sura_Mouth` | 640 | Teeth, Tongue | |
-| **LOD0 total** | **214,712** | 8 materials | LOD1 107,356 · LOD2 50,801 |
+| **LOD0 total** | **216,296** | 8 materials | LOD1 108,147 · LOD2 51,592 |
 
 | Texture set | Size | Maps |
 |---|---|---|
@@ -85,9 +85,9 @@ double-sided), `M_Sura_Horn` (claws / spikes), `M_Sura_Eye` + `M_Sura_Cornea`,
   that creep up the arm and onto the left side of the chest. Below it: crimson plated hide,
   ash patches, glowing fissures, swollen knuckles, knuckle spurs, four ulna spikes and claws
   that darken to black at the fingertips.
-- **Hair**: about 330 layered alpha cards traced across the scalp toward the back, then
-  falling with collision down to mid-back; an opaque scalp layer underneath, two loose
-  strands at the temples, grey brows and lashes.
+- **Hair**: about 330 layered alpha cards traced back over the skull, then falling with
+  collision down to mid-back; short cards soften the hairline, a combed opaque scalp layer
+  sits underneath, two loose strands break from the temples; grey brows and lashes.
 
 ## Using it
 
